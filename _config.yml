@@ -288,6 +288,16 @@ defaults:
       comments: # true
       share: true
       related: true
-      
-      
+    
+#Navigation 카테고리 
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Categories
+   url: /category
+ - title: Contact
+   url: /contact
+   
 remote_theme : mmistakes/minimal-mistakes
