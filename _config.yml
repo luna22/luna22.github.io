@@ -106,6 +106,7 @@ author:
   bio              : "Data Scientist"
   location         : "Korea"
   email            : "luna22ee@gmail.com"
+  avatar: 'assets/img/test.png'
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -300,4 +301,5 @@ navigation:
  - title: Contact
    url: /contact
    
-remote_theme : mmistakes/minimal-mistakes
+#remote_theme : mmistakes/minimal-mistakes
+remote_theme : luminousrubyist/airspace-jekyll
