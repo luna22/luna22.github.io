@@ -15,7 +15,7 @@ author_profile: false
   
 ## Education:
 - **Hanyang University** (2016 - 2018)   
-  Master of arts and technology
+  Master of Arts and Technology
 - **Hanyang University** (2009 - 2016)   
   Bachelor of Economics
   
